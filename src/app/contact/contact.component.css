@@ -1,0 +1,14 @@
+.line {
+    width: 5rem;
+    height: 3px;
+    background-color: black;
+}
+.form-control:focus , button:focus {
+    box-shadow: none;
+}
+@media ( width <= 768px){
+    .container {
+        width: 100% !important;
+    }
+};
+

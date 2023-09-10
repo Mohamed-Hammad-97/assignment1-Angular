@@ -1,0 +1,29 @@
+.home {
+    background-color: #1abc9c;
+}
+
+.line {
+    width: 5rem;
+    height: 3px;
+    background-color: white;
+}
+/* i::before {
+    content: '';
+    width: 5rem;
+    height: 3px;
+    background-color: white;
+    position: absolute;
+    left: 50%;
+    bottom: 6px;
+    margin-left: 1rem;
+}
+i::after {
+    content: '';
+    width: 5rem;
+    height: 3px;
+    background-color: white;
+    position: absolute;
+    right: 50%;
+    bottom: 6px;
+    margin-right: 1rem;
+} */

@@ -1,0 +1,28 @@
+#navbar {
+    background-color: #2c3e50;
+    transition: all 0.5s;
+}
+
+.fixed{
+    padding-top: 0rem;
+    padding-bottom: 0rem;
+    transition: linear 0.5s;
+}
+
+.notfixed{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    transition: linear 0.5s;
+}
+
+a{
+    color: white;
+    text-transform: uppercase;
+}
+.test {
+    background-color: #1abc9c;
+    color: white;
+    border-radius: 0.5rem;
+    width: fit-content;
+}
+
